@@ -1,11 +1,10 @@
-# OS DADOS MOSTRAM, A GENTE EXPLICA.
+<img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/189a3b2e-3896-4bdc-bec2-621acf000470" />
 
-Promovendo pensamento crítico e letramento de dados no Brasil.
+---
 
+ **RELEASE.**
 
-**RELEASE.**
-
-O DesvenDados nasceu em maio de 2025 de forma orgânica, por dois usuários do ex-Twitter focados em comunicação de conhecimento técnico de forma leve e racional.
+O [DesvenDados](https://desvendados.com) nasceu em maio de 2025 de forma orgânica, por dois usuários do ex-Twitter focados em comunicação de conhecimento técnico de forma leve e racional.
 
 No mundo atual há muita informação, mas pouco questionamento. Aceitam-se as respostas prontas da inteligência artificial. O fact-checking foi terceirizado. Vamos na contramão: ensinamos a entender os dados por trás, explorar as fontes originais e analisar assuntos a fundo (sempre evitando polarizações).
 
